@@ -221,5 +221,13 @@ p{
 }
 
 .trailer {
-  text-align: center;
+  text-align: left;
+}
+
+.info ul{
+  list-style: none;
+}
+
+.checked{
+  color: orange;
 }
